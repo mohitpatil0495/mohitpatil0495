@@ -43,12 +43,8 @@ I turn raw data into clear, actionable insights. BCA graduate (CGPA **8.67**, KB
 | Project | Description | Tools |
 |---|---|---|
 | 🍔 [**Burger King Sales Analysis**](https://github.com/mohitpatil0495/Burger-King-Sales-Analysis) | Sales performance dashboard (Jan–Mar 2026): revenue, top items, order trends | Power BI, DAX |
-| 📊 **Sales Performance Dashboard** | KPI dashboard for sales tracking and regional performance | Power BI / Tableau |
-| 👥 **Customer Churn Analysis** | Identify churn drivers and customer segments | Python, Pandas |
-| 🏋️ **Fitness & Gym Trend Analysis** | Trends and patterns in gym / fitness data | Python, Excel |
-| 📦 **E-Commerce Inventory Tracker** | Stock monitoring and inventory insights | Excel, SQL |
-
-> 🔗 Add the repo link for each project once it is uploaded.
+| 📊 [**Sales Performance Dashboard**](https://github.com/mohitpatil0495/ecommerce-sales-dashboard) | KPI dashboard for sales tracking and regional performance | Power BI / Tableau |
+| 👥 [**Customer Churn Analysis**](https://github.com/mohitpatil0495/Customer-Churn-Analysis-Insights) | Identify churn drivers and customer segments | Python, Pandas |
 
 ---
 
